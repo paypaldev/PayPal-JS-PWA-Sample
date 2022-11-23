@@ -1,14 +1,11 @@
-# PWA-Sample-App
-<p>
-  <a href="https://github.com/devpato/PWA-Sample-demo/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://twitter.com/devpato" target="_blank">
-    <img alt="Twitter: devpato" src="https://img.shields.io/twitter/follow/devpato?style=social" />
-  </a>
-</p>
+![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/pp-cover.png)
+<a href="https://twitter.com/paypaldev" target="_blank">
+    <img alt="Twitter: PayPal Developer" src="https://img.shields.io/twitter/follow/paypaldev?style=social" />
+</a>
 
-This is a sample app to get you started creating your first progressive web application using only HTML, CSS, and JavaScript.
+# PayPal-PWA-Sample-App
+
+This is a sample app to show the PayPal Checkout SDK inside of a PWA. This sample app can hlep you to get you started creating your first progressive web application using only HTML, CSS, and JavaScript.
 
 ## Manifest.json
 
@@ -114,3 +111,11 @@ self.addEventListener('fetch', e => {
 ```
 
 If you found this sample app helpful, don't forget to give it a star ⭐.
+
+## PayPal Developer Community
+
+The PayPal Developer community helps you build your career, while also improving PayPal products and the developer experience. You’ll be able to contribute code and documentation, meet new people and learn from the open source community.
+
+* Website: [developer.paypal.com](https://developer.paypal.com)
+* Twitter: [@paypaldev](https://twitter.com/paypaldev)
+* Github:  [@paypal](https://github.com/paypal)
